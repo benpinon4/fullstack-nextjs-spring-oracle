@@ -1,1 +1,0 @@
-# fullstack-nextjs-spring-oracle
